@@ -6,10 +6,10 @@
 
 <h1>Welcome to My GitHub World! 🌟</h1>
 
-<p>First things first, I've got to tell you—I absolutely love learning! It's what led me from studying theatre and film at the University of Port Harcourt to diving headfirst into the fascinating world of software engineering. And let me tell you, I am absolutely loving the journey! 💻
+<p>First things first, I absolutely love learning! It's what led me from studying theatre and film at the University of Port Harcourt to diving headfirst into the fascinating world of software engineering. I am absolutely loving the journey! 💻
 When I'm not writing code, you might find me strutting my stuff on the runway, embracing my love for fashion and modeling. It's my way of expressing creativity beyond the digital realm. 😎</p>
 <h1>Embracing the Backend World at ALx 🌐</h1>
-<p> Currently, I'm sharpening my skills as a backend enthusiast at ALx, and boy, it's been an exciting ride so far! From handling databases to crafting powerful APIs, I'm learning the ropes to build robust and efficient applications. </p>
+<p>  </p>
 <h1> Collaborate and Connect! </h1>
 <p> I'm a big believer in collaboration and sharing knowledge. If you're working on a project or just want to chat tech, I'm all ears! Let's connect and inspire each other on this coding journey. </p>
 
