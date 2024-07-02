@@ -1,15 +1,14 @@
-<h1>Hello, I'm Mamuro Oyiboluawhore! 👋</h1>
+<h1>Hello, I'm Mamuro Oyiboluawhore! </h1>
 <h2>About Me</h2>
-<h3> 🎭 Theatre and Film Enthusiast turned Software Engineer 🎬</h3>
-<h3>🏃‍♂️ Runway Model and Fashion Lover 🕺</h3>
-<h3>🚀 Passionate about Building Real-World Solutions 💡</h3>
+<h3> Theatre and Film Enthusiast turned Software Engineer </h3>
+<h3> Runway Model and Fashion Lover </h3>
+<h3> Passionate about Building Real-World Solutions </h3>
 
-<h1>Welcome to My GitHub World! 🌟</h1>
+<h1>Welcome to My GitHub World! </h1>
 
-<p>First things first, I absolutely love learning! It's what led me from studying theatre and film at the University of Port Harcourt to diving headfirst into the fascinating world of software engineering. I am absolutely loving the journey! 💻
-When I'm not writing code, you might find me strutting my stuff on the runway, embracing my love for fashion and modeling. It's my way of expressing creativity beyond the digital realm. 😎</p>
-<h1>Embracing the Backend World at ALx 🌐</h1>
-<p>  </p>
+<p> I absolutely love learning! It's what led me from studying theatre and film at the University of Port Harcourt to diving headfirst into the fascinating world of software engineering and I love the journey
+When I'm not writing code, you might find me strutting my stuff on the runway, embracing my love for fashion and modeling. It's my way of expressing creativity beyond the digital realm. </p>
+
 <h1> Collaborate and Connect! </h1>
 <p> I'm a big believer in collaboration and sharing knowledge. If you're working on a project or just want to chat tech, I'm all ears! Let's connect and inspire each other on this coding journey. </p>
 
