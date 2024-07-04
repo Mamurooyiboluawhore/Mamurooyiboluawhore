@@ -6,8 +6,7 @@
 
 <h1>Welcome to My GitHub World! </h1>
 
-<p> I absolutely love learning! It's what led me from studying theatre and film at the University of Port Harcourt to diving headfirst into the fascinating world of software engineering and I love the journey
-When I'm not writing code, you might find me strutting my stuff on the runway, embracing my love for fashion and modeling. It's my way of expressing creativity beyond the digital realm. </p>
+<p> I have a deep passion for learning that led me from studying theatre and film at the University of Port Harcourt to immersing myself in the world of software engineering. When I'm not writing code, I'm expressing my creativity through fashion and modeling on the runway. </p>
 
 <h1> Collaborate and Connect! </h1>
 <p> I'm a big believer in collaboration and sharing knowledge. If you're working on a project or just want to chat tech, I'm all ears! Let's connect and inspire each other on this coding journey. </p>
